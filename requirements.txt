@@ -1,0 +1,12 @@
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+numpy==1.26.4
+Pillow==10.0.1
+matplotlib==3.8.2
+scikit-learn==1.5.2
+scipy==1.6.1
+scikit-image==0.18.1
+tqdm==4.56.0
+pdbpp
+typing-extensions
+nltk==3.4.5
